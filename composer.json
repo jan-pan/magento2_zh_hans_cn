@@ -1,7 +1,7 @@
 {
-  "name": "benheart/magento2_zh_hans_cn",
+  "name": "jan-pan/magento2_zh_hans_cn",
   "description": "Chinese language package for Magento 2",
-  "homepage": "https://github.com/benheart/magento2_zh_hans_cn",
+  "homepage": "https://github.com/jan-pan/magento2_zh_hans_cn",
   "require": {
     "magento/framework": "*"
   },
